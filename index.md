@@ -5,7 +5,6 @@
 
 ### Featured Projects
 
-
 [Retail Analytics (Power BI, Python)](https://aartisrinivasan.notion.site/aartisrinivasan/Portfolio-Aarti-Srinivasan-64c565db984046238e163f63fd4a3bc7?p=7278eae1f9624dd391fc1d411b898971&pm=c)
 - The analysis of the Adventure Works dataset revealed that the product categories generating the highest revenue are accessories, bikes, and clothing, amounting to a total of $23.6 million.
 - Online sales have experienced significant growth, with a 15% increase in revenue over the past year, resulting in a total of $5.8 million in sales.
@@ -14,9 +13,7 @@
 <img src="images/Retail.png?raw=true"/>
 <img src="images/Retail1.png?raw=true"/>
 <img src="images/Retail2.png?raw=true"/>
-
 ---
-
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/aarti4429/viz/GoogleAnalyticsDashboard_16874690702240/Demo)
 - Collaborated with Google Merchandise Store to analyze customer online behavior and its impact on sales and profitability, providing actionable recommendations for business improvement.
@@ -33,12 +30,6 @@
 -	Applied one-hot encoding to transform categorical variables into dummy variables.
 -	Implemented Logistic Regression and Random Forest models, with the latter demonstrating a 17% improvement in performance.
 <img src="images/Random Forest AOC.png?raw=true"/>
-
-
-
-
-
-
 
 ---
 
