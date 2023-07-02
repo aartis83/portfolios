@@ -1,34 +1,37 @@
+
 ## Portfolios
 
 ---
 
 ### Featured Projects
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/profile/shuchang.liang#!/vizhome/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
-- Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
-- Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
-- Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
-- Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
-- Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
-<img src="images/Google Analytics 1.png?raw=true"/>
-<img src="images/Google Analytic KPI.png?raw=true"/>
+
+[Retail Analytics (Power BI, Python)](https://aartisrinivasan.notion.site/aartisrinivasan/Portfolio-Aarti-Srinivasan-64c565db984046238e163f63fd4a3bc7?p=7278eae1f9624dd391fc1d411b898971&pm=c)
+- The analysis of the Adventure Works dataset revealed that the product categories generating the highest revenue are accessories, bikes, and clothing, amounting to a total of $23.6 million.
+- Online sales have experienced significant growth, with a 15% increase in revenue over the past year, resulting in a total of $5.8 million in sales.
+- The Pacific region stands out as the most profitable customer segment, contributing $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
+- A notable insight from the analysis is that the marketing campaign centered around product discounts has had limited effectiveness, as discounted products account for only 7% of the total revenue. Exploring alternative marketing strategies may yield better results in driving sales.
+<img src="images/Retail.png?raw=true"/>
+<img src="images/Retail1.png?raw=true"/>
+<img src="images/Retail2.png?raw=true"/>
 
 ---
-[Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
-- The Adventure Works dataset analysis revealed that the most popular product categories are accessories, bikes, and clothing, generating a total of $23.6 million in revenue.
-- Sales from online channels have shown a significant increase over the past year, with a 15% growth rate and a total of $5.8 million in revenue generated through this channel.
-- The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
-- A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
-<img src="images/Retail Analytic.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
 
+
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/aarti4429/viz/GoogleAnalyticsDashboard_16874690702240/Demo)
+- Collaborated with Google Merchandise Store to analyze customer online behavior and its impact on sales and profitability, providing actionable recommendations for business improvement.
+- Utilized Google Analytics, BigQuery, and Data Studio to analyze data collected through JavaScript tags, evaluating the effectiveness of marketing strategies and informing marketers about success.
+- Identified optimal digital marketing tactics to target the desired audience, guide them through the AIDA conversion funnel (Awareness, Interest, Desire, Action), and maximize traffic and conversions.
+- Worked closely with marketing teams to develop data-driven campaigns, measuring, analyzing, and optimizing campaign performance across various channels, including direct, display, organic search, paid search, referral, and social media.
+- Applied the Pareto principle (80/20 rule) to focus on actionable insights, prioritizing SEO efforts to increase organic traffic and combining web, customer, and product data to uncover valuable insights that drive revenue growth, cost reduction and improve customer satisfaction and loyalty.
+<img src="images/GMS.png?raw=true"/>
 ---
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
+
+[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://aartisrinivasan.notion.site/aartisrinivasan/Portfolio-Aarti-Srinivasan-64c565db984046238e163f63fd4a3bc7?p=dcf1a4f2f53a4706bec2554b65f2a138&pm=c)
+-	Utilized SQL to calculate the credit-to-income ratio, average income, number of bad debts, and refused accounts for a dataset of 300,000 records.
+-	Prepared the data by removing empty records, imputing missing values, and identifying features correlated with defaulted accounts.
+-	Applied one-hot encoding to transform categorical variables into dummy variables.
+-	Implemented Logistic Regression and Random Forest models, with the latter demonstrating a 17% improvement in performance.
 <img src="images/Random Forest AOC.png?raw=true"/>
 
 
@@ -36,6 +39,6 @@
 
 
 
+
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
